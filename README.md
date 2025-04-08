@@ -8,8 +8,6 @@ This notebook implements a LangGraph-based multi-agent architecture that include
 
 - **Memory Node**: Extracts and maintains conversation history and key memory chunks.
 - **QA Agent**: Answers factual questions based on user input and relevant memory.
-- **Recommendation Agent**: Suggests products based on context and preferences.
-- **Order Status Agent**: Retrieves and presents order-related information.
 - **Summary Node**: Summarizes the entire interaction for logging or user feedback.
 
 ### 🛒 Use Case
@@ -23,8 +21,6 @@ The agents are tested within an **E-commerce** scenario (e.g., smartwatch sales)
 |-----------------------|-------------|
 | `Memory Node`         | Stores and retrieves conversation memory. |
 | `QA Agent`            | Answers general and factual questions. |
-| `Recommendation Agent`| Recommends products based on conversation context. |
-| `Order Status Agent`  | Provides updates on user orders. |
 | `Summary Node`        | Outputs a final summary of all agent contributions. |
 
 ---
