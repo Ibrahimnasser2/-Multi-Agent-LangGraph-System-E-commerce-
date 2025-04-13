@@ -40,6 +40,7 @@ This implementation features a LangGraph-based architecture with:
 ![System Diagram](https://via.placeholder.com/800x400?text=CogniGraph+System+Architecture)
 
 ---
+## snabshots
 
 ## 🛠️ Setup Instructions
 
